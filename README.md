@@ -1,1 +1,1 @@
-# testing-sqlalchemy-after-create-event
+# Testing SQLAlchemy 'after_create' event
