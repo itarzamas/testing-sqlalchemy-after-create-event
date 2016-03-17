@@ -1,1 +1,1 @@
-# Testing SQLAlchemy 'after_create' event
+# Testing SQLAlchemy 'after_create' event in a Flask application
