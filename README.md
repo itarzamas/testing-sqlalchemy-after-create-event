@@ -1,7 +1,7 @@
 # Testing SQLAlchemy 'after_create' event in a Flask application
 
 The prototype of a Flask app, that uses plain SQLAlchemy models with the Flask-SQLAlchemy session.
-It was created to test 'after_create' event from SQLAlchemy event API. The app uses it to insert
+It was created to test <code>'after_create'</code> event from SQLAlchemy event API. The app uses it to insert
 initial values just once after database creation.<br>
 
 The app inserts into <code>priority</code> table values: <code>high</code>, <code>medium</code>, <code>low</code>.
